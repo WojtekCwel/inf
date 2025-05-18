@@ -1,0 +1,14 @@
+span {
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.lists {
+    background-color: white;
+    color: navy;
+    padding: 5px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
