@@ -1,0 +1,14 @@
+span {
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+h2 {
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
